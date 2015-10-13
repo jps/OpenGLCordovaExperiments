@@ -2,5 +2,7 @@
     "name": "OpenGLExperiments",
     "version": "1.0.0",
     "dependencies": {
+        "gulp": "latest",
+        "gulp-sass" : "2.0.4"
     }
 }
